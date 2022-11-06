@@ -67,7 +67,7 @@ Whilst in the set state, the set LED should be on.
 
 4. The purpose of the entry state is to allow the user a period of time to gain 
 access to their home so that they can unset the alarm, this duration is known as 
-the entry period (2 minutes).
+the entry period (set to 2 minutes).
 Whilst in the entry state, the sounder unit should sound for approximately 
 250ms every 250ms, i.e. switch on, then off at 250ms intervals.
 If the user enters their four-digit code followed by “B” within the period, the 
