@@ -85,7 +85,7 @@ If the user enters the correct code followed by “B”, the alarm should change
 the report state, otherwise stay in the alarm state.
 
 6. When in the report state, the LCD should show the zone numbers or code 
-error information in the first line. In the second line it should show “C key to 
+error information in the first line. In the second line it should show “Press C key to 
 clear”. When an “C” is entered, the alarm should change to the unsetstate.
 
 #  Functional Specification - User Interface
