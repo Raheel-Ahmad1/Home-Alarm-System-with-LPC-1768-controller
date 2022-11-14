@@ -1,5 +1,5 @@
 # Home-Alarm-System-with-LPC-1768-controller
-A home alarm system is constructed with combination of various separate parts, which all connect to  a central control unit. This task  implements a basic control unit and the  functionality behind its user interface.
+A home alarm system is constructed with combination of various separate parts, which all connect to  a central control unit. This task  implements a basic control unit and the functionality behind its user interface.
 
 # Introduction to alarm systems
 A home alarm system is constructed from various separate parts, which all connect to 
