@@ -4,7 +4,7 @@ A home alarm system is constructed with combination of various separate parts, w
 # Introduction to alarm systems
 A home alarm system is constructed from various separate parts, which all connect to 
 a central control unit. This project implement a basic control unit and the 
-functionality behind its user interface. The complete specification of overall system are:-
+functionality behind its user interface. The complete specification of overall system are:
 A conventional alarm system normally contains:
 1 Central control unit
 2 Keypad entry point / user interface
